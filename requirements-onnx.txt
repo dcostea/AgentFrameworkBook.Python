@@ -1,0 +1,3 @@
+# Optional CPU runtime for the two local ONNX examples.
+# For CUDA, install the matching onnxruntime-genai-cuda version INSTEAD.
+onnxruntime-genai==0.17.1
